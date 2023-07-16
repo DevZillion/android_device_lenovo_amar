@@ -1,0 +1,4 @@
+ro.product.board=amar_row_lte
+ro.board.platform=mt6765
+ro.boot.dynamic_partitions=true
+ro.boot.boot_devices=bootdevice,11230000.mmc
